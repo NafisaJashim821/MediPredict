@@ -71,7 +71,5 @@ http://127.0.0.1:8000/
 
 ```
 
-## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
